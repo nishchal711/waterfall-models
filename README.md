@@ -1,9 +1,5 @@
 # Waterfall Model – Online Food Delivery App
 
-## Student Details
-- Name: Nishchal
-- Roll No: 2K25CSUN06030
-
 ## Project Overview
 This project represents the Waterfall Development Model for an Online Food Delivery Application. The model explains the step-by-step software development lifecycle used for building the application.
 
